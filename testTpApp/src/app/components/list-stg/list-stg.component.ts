@@ -44,7 +44,7 @@ export class ListStgComponent implements OnInit {
 
   deleteAllStg() {
     this.stgList = [];
-    this.showList();
+
   }
 
 
